@@ -72,10 +72,10 @@ logo = """
 \033
 \033[1;92m
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;97mAuthor©\033[1;97m: \033[1;92mShipon ahmed
-\033[1;97mInstagram\033[1;97m: \033[1;92mSawya
-\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/Madarchod.Chodi.Tore
-\033[1;97mWhatsapp\033[1;97m: \033[1;92mbal
+my name shipon ahmed 
+
+facebook id link m.Facebook.com/Madarchod.Chodi.Tore
+
 \033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"""
 
 def tik():
@@ -84,7 +84,7 @@ def tik():
 		print("\r\x1b[1;93mPlease Wait \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 
 
-back = 0
+back = 
 berhasil = []
 cekpoint = []
 oks = []
@@ -106,15 +106,15 @@ print  """
       \033[1;97m█████ 80% *___*
        \033[1;96m██████ 100% *___*
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;91mAuthor©\033[1;91m: \033[1;93mShipon ahmed
-\033[1;91mInstagram\033[1;91m: \033[1;93mdark cybar forces 
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/Madarchod.Chodi.Tore
-\033[1;91mWhatsapp\033[1;91m: \033[1;93mbal
+my name Shipon ahmed
+team name dark cybar forces 
+facebook id link https://www.facebook.com/Madarchod.Chodi.Tore
+
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan('              \033[1;91mREAD CAREFULLY:')
 jalan("\033[1;97m Tool Username And Password  ")
 jalan('\033[1;97m    Username shipon Password shipon  
-jalan("\033[1;97m    ██████ 100%  ")
+jalan("\033[1;97m    ██████ 100%  
 
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
