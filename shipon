@@ -60,9 +60,9 @@ logo = """
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;97mAuthor©\033[1;97m: \033[1;92mShipon ahmed 
-\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/Man50or
+
 \033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/Madachod.Chodi.Tore 
-\033[1;97mWhatsapp\033[1;97m: \033[1;92m+923325439914
+\033[1;97mWhatsapp\033[1;97m: \033[1;92m01775106640
 \033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"""
 
 def tik():
@@ -121,10 +121,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.Facebook.com/Man50or')
+            os.system('xdg-open https://www.Facebook.com/Madarchod.chodi.Tore')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.Facebook.com/Man50or')
+        os.system('xdg-open https://www.Facebook.com/Madarchod.Chodi.Tore')
 
 def login():
 	os.system('clear')
